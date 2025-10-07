@@ -14,9 +14,6 @@ It’s meant to serve as a reference for myself and for anyone who wants to unde
   - Git reset & revert
   - Resolving merge conflicts
   - GitHub workflow tips
-- **Notes in Both Languages**
-  - `notes_en.md` → English notes  
-  - `notes_fr.md` → Notes en français  
 # Ressources
 I followed practical YouTube crash courses and official documentation while building hands-on projects.  
 Some recommended resources:
