@@ -3,17 +3,7 @@ Welcome to my personal **Git & GitHub learning notes**!
 This repository contains everything I learned while studying version control — in both English and French.  
 It’s meant to serve as a reference for myself and for anyone who wants to understand Git concepts clearly and practically.
 # Contents
-- **Git Basics**
-  - What is Git & GitHub
-  - Initializing a repository
-  - Committing changes
-  - Branching and merging
-  - Working with remotes (push, pull, clone)
-- **Advanced Concepts**
-  - Git stash
-  - Git reset & revert
-  - Resolving merge conflicts
-  - GitHub workflow tips
+
 # Ressources
 I followed practical YouTube crash courses and official documentation while building hands-on projects.  
 Some recommended resources:
