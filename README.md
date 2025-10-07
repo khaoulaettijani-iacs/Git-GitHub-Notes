@@ -14,4 +14,3 @@ Some recommended resources:
 
 # About Me
 I’m Khaoula, an **AI and Cybersecurity Engineering student** passionate about technology, AI, and cybersecurity.  
-This repository is part of my learning journey to build strong foundations for future projects. �
